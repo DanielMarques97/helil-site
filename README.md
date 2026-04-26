@@ -4,7 +4,7 @@ Landing page desenvolvida para a Associação HELIL de Amparo à Criança, com o
 
 ## 🔗 Site publicado
 
-https://danielmarques97.github.io/helil-site/
+https://danielmarques97.github.io/helil-site/?v=999
 
 ## 🎯 Objetivo do projeto
 
