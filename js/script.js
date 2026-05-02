@@ -1,8 +1,8 @@
 const innerPhotos = {
-    futebol: { files: ['futebol1.jpg','futebol2.jpg','futebol3.jpg'], folder: 'futebol', cur: 0 },
-    musica:  { files: ['musica1.jpg','musica2.jpg'],                  folder: 'musica',  cur: 0 },
-    luta:    { files: ['luta1.jpg','luta2.jpg'],                      folder: 'luta',    cur: 0 },
-    artes:   { files: ['artes1.jpg'],                                 folder: 'artes',   cur: 0 }
+    futebol: { files: ['futebol1.jpeg','futebol2.jpeg','futebol3.jpeg'], folder: 'futebol', cur: 0 },
+    musica:  { files: ['musica1.jpeg','musica2.jpeg'],                  folder: 'musica',  cur: 0 },
+    luta:    { files: ['luta1.jpeg','luta2.jpeg'],                      folder: 'luta',    cur: 0 },
+    artes:   { files: ['artes1.jpeg'],                                 folder: 'artes',   cur: 0 }
   };
 
   function innerSlide(key, dir) {
